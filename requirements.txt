@@ -1,0 +1,9 @@
+fastapi[all]
+masonite-orm
+passlib
+bcrypt[cryptography]
+psycopg2-binary
+fastapi-mail
+python-dotenv
+pytest
+requests
